@@ -1,0 +1,13 @@
+.pagination{
+    margin-bottom: 10px;
+}
+.page-item{
+    display: inline-block;
+    padding: 3px;
+}
+.page-link{
+    text-decoration: none;
+}
+.active{
+color: red;
+}

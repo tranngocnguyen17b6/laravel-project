@@ -1,0 +1,53 @@
+.format-container{
+    /* border: 1px solid black; */
+    padding: 20px;
+}
+
+.create-btn{
+    float: right;
+}
+.div-ha{
+    border: 1px solid black;
+    height: 1px;
+}
+
+/* create */
+.title-div-20{
+    width: 40%;
+    float: left;
+    padding-right: 30px;
+    box-sizing: border-box;
+}
+.input-div-70{
+    width: 60%;
+    float: right;
+}
+#create-radio{
+    display: none;
+}
+#other-input{
+    display: none;
+}
+#notification-limit{
+    display: none;
+}
+#fix{
+    display: none;
+}
+
+.div-delete{
+    border: 2px solid black;
+    width: 200px;
+    height: 100px;
+    padding: 15px;
+    box-sizing: border-box;
+    position: absolute;
+    top: 50%;
+    left: 41%;
+    display: none;
+    background-color: white;
+
+}
+.div-delete H5{
+    text-align: center;
+}

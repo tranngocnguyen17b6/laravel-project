@@ -1,0 +1,36 @@
+.div-form{
+    margin: 14% 32%;
+    width: 600px;
+    height: auto;
+}
+.div-form h2{
+    text-align: center;
+}
+.div-login{
+    padding: 10px;
+    width: 400px;
+    height: auto;
+    border: 2px solid black;
+    border-radius: 7px;
+    margin: 3px 92px ;
+} 
+.label-titel, .id , .btn-login {
+    text-align: center;
+}
+.btn-login button{
+    padding: 3px;
+    border: 3px solid #645c5c;
+    background-color: #d6d5d5;
+    border-radius: 5px;
+    width: 90px;
+    height: 32px;  
+}
+.password{
+    margin-left: 33px;
+}
+.err-id{
+    margin-right: 5px;
+}
+.err-pass{
+    margin-right: 28px;
+}
